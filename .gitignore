@@ -1,0 +1,9 @@
+target/
+.gradle
+build
+allure-results
+.idea
+.allure
+*/**/.DS_Store
+.project
+.classpath
